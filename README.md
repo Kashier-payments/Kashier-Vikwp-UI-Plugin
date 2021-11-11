@@ -53,7 +53,7 @@
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Vikwp-UI-Plugin/main/steps/apikeytest.png)
 
-- Navigate to `VikBookin > Global > payment methods`.
+- Navigate to `VikBooking > Global > payment methods`.
 
 - Add a new payment method by clicking on the Add button on the top.
 
@@ -77,7 +77,7 @@
 
 ### Enable Advanced Options 
 
-- Choose `Yes` From Enforce EGP Payment list to accept only EGP payment via kashier, Regardless what is the default currency displayed on your website.
+- Choose `Yes` from Enforce EGP Payment list to accept only EGP payment via kashier, Regardless what is the default currency displayed on your website.
 - After Choosing `Yes` from Enforce EGP Payment list, you have to insert exchange rate from your default currency displayed on your website to EGP currency. the exchange rate must be greater than 1 .
 - The next picture is example of advanced options configuration if you display USD currency by default on your website, but you want customers to only pay by EGP currency via kashier payment method. 
 
